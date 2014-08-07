@@ -5,8 +5,14 @@ description: "Agenda for our second meetup."
 category: meetup
 tags: [meetup]
 ---
+## Second meetup
+Date: 18th Aug 2014
 
-## Second meetup agenda
+Location: Discovery Offices, Alice Lane, Sandton
+
+Time: 18:00 - 19:30
+
+## Agenda
 
 * Recent developments in the Android world
 * Services vs Async Tasks by Elsabe

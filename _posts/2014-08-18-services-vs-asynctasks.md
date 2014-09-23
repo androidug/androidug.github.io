@@ -5,8 +5,11 @@ description: "Summary of presentation on Android services and asynctasks"
 category: presentation
 tags: [meetup]
 ---
-## Services vs Asynctasks ##
 This is a summary of a talk on Asynctasks and Services given at the Android usergroup on the 18th of August 2014. For the full example used see [https://github.com/AesSedai101/Android-Asynctasks-and-Services](https://github.com/AesSedai101/Android-Asynctasks-and-Services).
+
+----------
+
+## Services vs Asynctasks ##
 
 By default, everything in Android runs in the UI thread. For long running tasks, this can lock up the application and cause a Application Not Responding error. To prevent this, the developer needs to execute long running tasks in a separate thread. Android provides two mechanisms to do this: Asynctasks and Services, in addition to the standard Java threading classes.
 

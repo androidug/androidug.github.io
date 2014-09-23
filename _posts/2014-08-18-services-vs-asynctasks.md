@@ -9,8 +9,6 @@ This is a summary of a talk on Asynctasks and Services given at the Android user
 
 ----------
 
-## Services vs Asynctasks ##
-
 By default, everything in Android runs in the UI thread. For long running tasks, this can lock up the application and cause a Application Not Responding error. To prevent this, the developer needs to execute long running tasks in a separate thread. Android provides two mechanisms to do this: Asynctasks and Services, in addition to the standard Java threading classes.
 
 ### Asynctask ###

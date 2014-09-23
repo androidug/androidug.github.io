@@ -5,6 +5,8 @@ description: "Summary of presentation on Android services and asynctasks"
 category: presentation
 tags: [meetup]
 ---
+##### by *Elsabé Ros* #####
+
 This is a summary of a talk on Asynctasks and Services given at the Android usergroup on the 18th of August 2014. For the full example used see [https://github.com/AesSedai101/Android-Asynctasks-and-Services](https://github.com/AesSedai101/Android-Asynctasks-and-Services).
 
 ----------
